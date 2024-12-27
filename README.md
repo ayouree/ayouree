@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ryuug.site">
-    <img src="kita-ikuyo-rap.webp" alt="Banner">
+    <img src="https://media1.tenor.com/m/FvthnLepGgAAAAAC/hi-hello.gif" alt="Banner">
   </a>
 </p>
 
