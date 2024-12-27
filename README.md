@@ -20,11 +20,8 @@
 - ⚡ Fun fact: I’m a JKT48 fan, and my oshi is Cynthia.
 
 <p align="center">
-  <strong><a href="https://yuna0x0.com">Website</a></strong> |
-  <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
-  <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
+  <strong><a href="https://ryuug.site">Website</a></strong> |
+  <strong><a href="https://x.com/_RyuuG">Twitter</a></strong> |
 </p>
 
 <p align="center">
