@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I’m a JKT48 fan, and my oshi is Cynthia.
 
 <p align="center">
-<h3>My Skills</h3>>
+  <h3>My Skills</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,discordjs,bootstrap" />
   </a>
