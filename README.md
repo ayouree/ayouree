@@ -20,8 +20,15 @@
 - ⚡ Fun fact: I’m a JKT48 fan, and my oshi is Cynthia.
 
 <p align="center">
+<h3>My Skills</h3>>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,discordjs,bootstrap" />
+  </a>
+</p>
+
+<p align="center">
   <strong><a href="https://ryuug.site">Website</a></strong> |
-  <strong><a href="https://x.com/_RyuuG">Twitter</a></strong> |
+  <strong><a href="https://x.com/_RyuuG">Twitter</a></strong> 
 </p>
 
 <p align="center">
