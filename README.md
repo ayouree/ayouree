@@ -19,7 +19,7 @@
   <h3>My Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,py,flask,express,discordjs,bootstrap,mysql,sqlite,,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,py,flask,express,discordjs,bootstrap,mysql,sqlite,figma" />
   </a>
 </p>
 
