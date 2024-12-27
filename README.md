@@ -5,11 +5,6 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://ryuug.site">Ryuu</a>!</h1>
-<p align="center">
-  <a href="https://ryuug.site">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
-  </a>
-</p>
 <h3 align="center">Welcome to my GitHub profile <3</h3>
 
 <p align="center">❤ I'm currently working on Discord bot developer.</p>
