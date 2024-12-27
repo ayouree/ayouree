@@ -22,7 +22,7 @@
 <p align="center">
   <h3>My Skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,discordjs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,discordjs,bootstrap,mysql,sqlite,mongodb" />
   </a>
 </p>
 
