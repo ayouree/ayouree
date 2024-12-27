@@ -10,19 +10,16 @@
 <p align="center">❤ I'm currently working on Discord bot developer.</p>
 
 - 🔭 I’m a student of a university in Surabaya, East Java.
-  
 - 🌱 I’m currently learning React, and some Javascript.
 
 - 👯 I’m I aspire to be a front-end dev or a fullstack dev.
-  
 - 💬 Ask me about some javascript, html, css.
-  
 - ⚡ Fun fact: I’m a JKT48 fan, and my oshi is Cynthia.
 
-<p align="center">
   <h3>My Skills</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,discordjs,bootstrap,mysql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,py,flask,express,discordjs,bootstrap,mysql,sqlite,,figma" />
   </a>
 </p>
 
