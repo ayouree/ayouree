@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm <a href="https://ryuug.site">Ryuu</a>!</h1>
 <h3 align="center">Welcome to my GitHub profile <3</h3>
 
-<p align="center">❤ I'm very interested on Discord bot developer.</p>
+<p align="center">❤ I'm very interested on Discord bot developing.</p>
 
 - 🔭 I’m a student of a university in Surabaya, East Java.
 - 🌱 I’m currently learning React, and some Javascript.
