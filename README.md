@@ -29,5 +29,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryuu-g"><img src="https://github-readme-stats.vercel.app/api?username=ryuu-g&hide_border=true&show_icons=true" alt="ryuu-g's github stats"></a>
+  <a href="https://github.com/ryuu-g/">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuu-g&layout=compact&title_color=8B64FF&theme=dracula" alt="ryuug's github stats"/>
+   </a>
+   <a href="https://github.com/ryuu-g/">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ryuu-g&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF&theme=dracula" alt="ryuug's github stats" />
+   </a>
 </p>
