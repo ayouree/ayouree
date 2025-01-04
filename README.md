@@ -23,6 +23,18 @@
   </a>
 </p>
 
+## My Projects
+
+<a href="https://github.com/Ryuu-G/live-notification-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=live-notification-bot" />
+</a>
+<a href="https://github.com/Ryuu-G/CekOshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=cekoshi" />
+</a>
+<a href="https://github.com/Ryuu-G/Gen12 Quiz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=Gen-12" />
+</a>
+
 <p align="center">
   <strong><a href="https://ryuug.site">Website</a></strong> |
   <strong><a href="https://x.com/_RyuuG">Twitter</a></strong> 
