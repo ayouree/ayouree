@@ -26,13 +26,13 @@
 ## My Projects
 
 <a href="https://github.com/Ryuu-G/live-notification-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=live-notification-bot&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=live-notification-bot&theme=dracula\&show_owner=true" />
 </a>
 <a href="https://github.com/Ryuu-G/CekOshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=cekoshi&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=cekoshi&theme=dracula\&show_owner=true" />
 </a>
 <a href="https://github.com/Ryuu-G/Gen12 Quiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=Gen-12&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=Gen-12&theme=dracula\&show_owner=true" />
 </a>
 
 ## My Stats
