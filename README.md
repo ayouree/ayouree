@@ -26,14 +26,18 @@
 ## My Projects
 
 <a href="https://github.com/Ryuu-G/live-notification-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=live-notification-bot&theme=dracula\&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=live-notification-bot\&theme=dracula\&show_owner=true" />
 </a>
 <a href="https://github.com/Ryuu-G/CekOshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=cekoshi&theme=dracula\&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=cekoshi\&theme=dracula\&show_owner=true" />
 </a>
-<a href="https://github.com/Ryuu-G/Gen12 Quiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=Gen-12&theme=dracula\&show_owner=true" />
+<a href="https://github.com/Ryuu-G/Gen-12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=Gen-12\&theme=dracula\&show_owner=true" />
 </a>
+<a href="https://github.com/Typicalsleepingboy/finland-miracle">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Typicalsleepingboy&repo=finland-miracle\&theme=dracula\&show_owner=true" />
+</a>
+
 
 ## My Stats
 
