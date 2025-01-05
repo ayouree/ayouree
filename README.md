@@ -37,7 +37,9 @@
 <a href="https://github.com/Typicalsleepingboy/finland-miracle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Typicalsleepingboy&repo=finland-miracle&theme=dracula&show_owner=true" />
 </a>
-
+<a href="https://github.com/Ryuu-G/tebak-member">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=tebak-member&theme=dracula&show_owner=true" />
+</a>
 
 ## My Stats
 
