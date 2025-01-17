@@ -40,6 +40,9 @@
 <a href="https://github.com/Ryuu-G/tebak-member">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=tebak-member&theme=dracula&show_owner=true" />
 </a>
+<a href="https://github.com/Ryuu-G/whatsapp-bot-jkt48">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=whatsapp-bot-jkt48&theme=dracula&show_owner=true" />
+</a>
 
 ## My Stats
 
