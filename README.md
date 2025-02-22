@@ -25,33 +25,33 @@
 
 ## My Projects
 
-<a href="https://github.com/Ryuu-G/live-notification-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=live-notification-bot&theme=dracula&show_owner=true" />
+<a href="https://github.com/ayouree/live-notification-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayouree&repo=live-notification-bot&theme=dracula&show_owner=true" />
 </a>
-<a href="https://github.com/Ryuu-G/CekOshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=cekoshi&theme=dracula&show_owner=true" />
+<a href="https://github.com/ayouree/CekOshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayouree&repo=cekoshi&theme=dracula&show_owner=true" />
 </a>
-<a href="https://github.com/Ryuu-G/Gen-12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=Gen-12&theme=dracula&show_owner=true" />
+<a href="https://github.com/ayouree/Gen-12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayouree&repo=Gen-12&theme=dracula&show_owner=true" />
 </a>
 <a href="https://github.com/Typicalsleepingboy/finland-miracle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Typicalsleepingboy&repo=finland-miracle&theme=dracula&show_owner=true" />
 </a>
-<a href="https://github.com/Ryuu-G/tebak-member">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=tebak-member&theme=dracula&show_owner=true" />
+<a href="https://github.com/ayouree/tebak-member">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayouree&repo=tebak-member&theme=dracula&show_owner=true" />
 </a>
-<a href="https://github.com/Ryuu-G/whatsapp-bot-jkt48">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuu-G&repo=whatsapp-bot-jkt48&theme=dracula&show_owner=true" />
+<a href="https://github.com/ayouree/whatsapp-bot-jkt48">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayouree&repo=whatsapp-bot-jkt48&theme=dracula&show_owner=true" />
 </a>
 
 ## My Stats
 
 <p align="center">
-  <a href="https://github.com/ryuu-g/">
-   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuu-g&layout=compact&title_color=8B64FF&theme=dracula" alt="ryuug's github stats"/>
+  <a href="https://github.com/ayouree/">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayouree&layout=compact&title_color=8B64FF&theme=dracula" alt="ryuug's github stats"/>
    </a>
-   <a href="https://github.com/ryuu-g/">
-   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ryuu-g&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF&theme=dracula" alt="ryuug's github stats" />
+   <a href="https://github.com/ayouree/">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=ayouree&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF&theme=dracula" alt="ryuug's github stats" />
    </a>
 </p>
 
