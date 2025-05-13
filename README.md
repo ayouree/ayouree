@@ -56,6 +56,6 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://ryuug.site">Website</a></strong> |
+  <strong><a href="https://ayouree.cyou">Website</a></strong> |
   <strong><a href="https://x.com/_RyuuG">Twitter</a></strong> 
 </p>
