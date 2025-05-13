@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://ryuug.site">Aury</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://ayouree.cyou">Aury</a>!</h1>
 <h3 align="center">Welcome to my GitHub profile <3</h3>
 
 <p align="center">❤ I'm very interested on Discord bot developing.</p>
